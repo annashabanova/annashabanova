@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annashabanova
+- 👋 Hi there! I'm Anna
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning - always working on improving my Python, SQL & Tableau skills
 - 💞️ I’m actively looking for a job in Data Analytics
