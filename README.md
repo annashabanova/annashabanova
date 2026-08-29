@@ -1,8 +1,7 @@
 - 👋 Hi there! I'm Anna
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning - always working on improving my Python, SQL & Tableau skills
-- 💞️ I’m actively looking for a job in Data Analytics
-- 📫 How to reach me - anna.shabanova8@icloud.com
+- 👀 I’m a Data Analyst / BI Developer.
+- 🎮 I have experience analysing slot games and social casino products, as well as working across a broad range of iGaming analytics projects.
+- 📈 I’m building a side project - a stock market tracker and screening tool—using financial APIs, Python, DuckDB, and Power BI.
 
 
 <!---
